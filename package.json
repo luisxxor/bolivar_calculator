@@ -1,0 +1,11 @@
+{
+  "name": "bolivar_calculator",
+  "version": "1.0.0",
+  "description": "Calculadora de Bolivares, Bolivares Fuertes y Bolivares Soberanos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Portillo <luisxxor@gmail.com> (https://www.luisangelportillo.com)",
+  "license": "MIT"
+}
